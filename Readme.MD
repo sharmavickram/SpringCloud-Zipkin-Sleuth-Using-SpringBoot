@@ -88,3 +88,5 @@ So far we have integrated Zipkin and Sleuth to microservices and ran the Zipkin 
 In each microservice, we will expose one endpoint and from the first service we will call the second service, and from 
 the second service, we will invoke the third and so on using the RestTemplate.
     ![img.png](img.png)
+
+    ![img_1.png](img_1.png)
